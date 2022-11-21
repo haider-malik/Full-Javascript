@@ -4,4 +4,4 @@ This repository contains Javascript from beginner to advanced level. All the cod
 <strong style="">
   Note :
 </strong>
-  You will have to practice yourself to get a good command over javascript. This repository is just to understand all the basic to advanced concepts of   javascript fastly 
+  You will have to practice yourself to get a good command over javascript. This repository is just to understand all the basic to advanced concepts of   javascript fastly using a single repo.
